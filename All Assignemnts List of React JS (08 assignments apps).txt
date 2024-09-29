@@ -1,0 +1,13 @@
+
+
+All assignments of React JS SMIT Batch 11
+
+
+Todo App
+Weather App
+Bg Changing App
+Status Cards App
+E Commerce Product Listing
+Theme changing app
+authentication using use context
+
